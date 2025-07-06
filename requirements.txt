@@ -1,0 +1,10 @@
+yfinance
+transformers
+torch
+vaderSentiment
+newspaper3k
+feedparser
+colorama
+xgboost
+scikit-learn
+pytz
